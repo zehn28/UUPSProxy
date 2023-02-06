@@ -1,0 +1,11 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@openzeppelin/contracts": "^4.8.1",
+    "@openzeppelin/contracts-upgradeable": "^4.8.1",
+    "@openzeppelin/hardhat-defender": "^1.8.1",
+    "@openzeppelin/hardhat-upgrades": "^1.22.0",
+    "nft.storage": "^7.0.0"
+  }
+}
